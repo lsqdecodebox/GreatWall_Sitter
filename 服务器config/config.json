@@ -1,9 +1,0 @@
-{
-    "server":"149.28.40.142",
-    "server_port":8886,
-    "local_port":1080,
-    "password":"lingohost",
-    "timeout":30,
-    "method":"chacha20-ietf-poly1305",
-	"mode":"tcp_and_udp",
-}
