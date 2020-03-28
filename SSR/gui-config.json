@@ -1,0 +1,180 @@
+{
+  "version": "4.1.8.0",
+  "configs": [
+    {
+      "server": "hk5-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Hong Kong 5, 流量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "au1-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Australia 1, 流量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "de1-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Germany 1, 流量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "hk1-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Hong Kong 1, 流量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "jp1-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Japan 1, 流量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "jp2-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Japan 2, 流量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "jp3-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Japan 3, 流量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "nl1-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Netherlands 1, 流量倍率:0.10",
+      "timeout": 5
+    },
+    {
+      "server": "ru1-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "Russia 1, 流量倍率:1.20",
+      "timeout": 5
+    },
+    {
+      "server": "uk1-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "United Kingdom 1, 流量倍率:0.10",
+      "timeout": 5
+    },
+    {
+      "server": "us2-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "United States 2, 流量倍率:0.01",
+      "timeout": 5
+    },
+    {
+      "server": "us3-sta196.ss3253.com",
+      "server_port": 26442,
+      "password": "JptzaAqT9c86EL8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "United States 3, 流量倍率:1.00",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 10,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "isIPv6Enabled": false,
+  "localPort": 1080,
+  "portableMode": false,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": true,
+  "autoCheckUpdate": true,
+  "checkPreRelease": true,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": true,
+    "wrapText": true,
+    "toolbarShown": true,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
+    "authPwd": ""
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": "",
+    "RegHotkeysAtStartup": false
+  }
+}
