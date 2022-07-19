@@ -22,7 +22,22 @@
 ```
 
 
+### 2022.7.19
 
+```
+更新安装步骤：
+
+1、下载Trojan
+Trojan-Qt5-Windows.1.1.6.7z 
+https://repo.trojan-cdn.com/trojan/windows/Trojan-Qt5-Windows.1.1.6.7z
+
+2、添加路由节点信息
+https://portal.shadowsocks.nz/knowledgebase/161/WindowsTrojan-QT5-%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%B3%95.html
+
+3、添加路由器配置
+https://portal.shadowsocks.nz/index.php?rp=/knowledgebase/180
+
+```
 
 
 
